@@ -2,7 +2,7 @@ echo "srcipt"
 
 a=0
 
-while [ $a -lt 10 ]
+while [ $a -lt 15 ]
 do
 	sleep 5
     	echo $a
